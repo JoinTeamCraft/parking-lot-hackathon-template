@@ -4,12 +4,6 @@ Build the backend for a parking lot management system with Spring Boot and Postg
 
 This repo is the starting point for every team. It builds, boots, connects to Postgres, and has CI, but it has no business logic yet. That part is yours.
 
-| Doc | Read it for |
-| --- | --- |
-| [HACKATHON.md](HACKATHON.md) | Rules, timeline, scope tiers, what to submit |
-| [SCORING.md](SCORING.md) | How your work is judged, including the AI review criteria |
-| [TIPS.md](TIPS.md) | How to score well and ship on time |
-
 The full ticket list (PLS-001 to PLS-062) lives on the Lokum project board. Every PR you open should name one of those tickets.
 
 ## Stack
