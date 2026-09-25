@@ -1,6 +1,6 @@
 ## Ticket
 
-PLS-XXX: <ticket title>
+[PLS-XXX] - <Ticket Title>  <!-- also use this as the PR title -->
 
 ## What changed
 

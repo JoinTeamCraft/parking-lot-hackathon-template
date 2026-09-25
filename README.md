@@ -88,8 +88,9 @@ Roles: `ADMIN`, `OPERATOR`, `CUSTOMER`. Vehicle types: `CAR`, `MOTORBIKE`, `TRUC
 ## Workflow
 
 1. Pick a ticket on the Lokum board and move it to In Progress.
-2. Branch: `feature/PLS-017-book-spot`.
-3. Open a PR using the template. CI must be green.
-4. A teammate reviews, then merge. The merge triggers the AI review score on Lokum.
+2. Branch from the latest `main`: `<username>/PLS-017-book-parking-spot`.
+3. Commit as `[PLS-017] - <what changed>`.
+4. Open a PR titled `[PLS-017] - Book a Parking Spot` using the template, attach the PR link to the ticket and move it to Code Review. CI must be green.
+5. Once approved, merge it yourself and move the ticket to Done. The merge triggers the AI review score on Lokum.
 
 Protect `main` so nothing lands without a PR.
